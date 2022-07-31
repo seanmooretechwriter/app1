@@ -1,3 +1,8 @@
+/**
+
+Go project to fetch crypto prices and print them to the command line.
+
+*/
 package main
 
 import (
